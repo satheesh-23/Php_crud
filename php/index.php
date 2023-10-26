@@ -66,7 +66,6 @@
                         <td><a href="edit.php?e=<?php echo $id ?>" class="btn btn-primary">Edit</a></td>
                         <td><a href="delete.php?d=<?php echo $id ?>" class="btn btn-danger">Delete</a></td>
 
-
                     </tr>
 
                     <?php $i++;
